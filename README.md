@@ -11,3 +11,5 @@ Master: Information Systems - HEC Lausanne - 2019-2020
 * Arild Madshaven
 
 ## The Project
+
+The goal of our project is to make a simple tutorial for Tableau Prep that allows for data cleaning and shaping before data analysis. 
