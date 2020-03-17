@@ -12,4 +12,4 @@ Master: Information Systems - HEC Lausanne - 2019-2020
 
 ## The Project
 
-The goal of our project is to make a simple tutorial for Tableau Prep that allows for data cleaning and shaping before data analysis. 
+The goal of our project is to make a simple tutorial for Tableau Prep with an exercise of data cleaning and shaping before data analysis. 
